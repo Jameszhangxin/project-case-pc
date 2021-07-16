@@ -1,0 +1,44 @@
+{
+  "id": "1831497",
+  "name": "GCRMV1-ad-report",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "GCRMV1改造ad报表icon",
+  "glyphs": [
+    {
+      "icon_id": "310631",
+      "name": "book",
+      "font_class": "book",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1166063",
+      "name": "分享",
+      "font_class": "iconfontzhizuobiaozhun023130",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "1381312",
+      "name": "book",
+      "font_class": "book1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "2849255",
+      "name": "分享",
+      "font_class": "fenxiang",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "10715424",
+      "name": "分享",
+      "font_class": "fenxiang1",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
