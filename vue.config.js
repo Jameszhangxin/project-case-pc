@@ -23,12 +23,12 @@ module.exports = {
     disableHostCheck: true,
     compress: true,
     hot: true,
-    proxy: {
-      '/mf': {
-        target: 'https://monitorf.shwawo.com/',
-        ws: true,
-        changeOrigin: true
-      }
-    }
+    // proxy: {
+    //   '/mf': {
+    //     target: 'https://monitorf.shwawo.com/',
+    //     ws: true,
+    //     changeOrigin: true
+    //   }
+    // }
   },
 };
